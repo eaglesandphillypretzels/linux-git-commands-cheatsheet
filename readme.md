@@ -17,5 +17,6 @@
 |-----------|---------------|------------------|
 | `git init` | Initialize new repository | `git init [name of repo]`|
 | `git commit` | Save changes as commits | `git commit -m [message]` |
+| `git status` | Check status of repository | `git status`|
 
 
