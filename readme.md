@@ -19,5 +19,6 @@
 | `git commit` | Save changes as commits | `git commit -m [message]` |
 | `git status` | Check status of repository | `git status`|
 | `git log` | Show the commit history for the currently active branch | `git log` |
+| `git clone` | Clone an existing repository | `git clone [url] - Clone a repository from an existing URL` |
 
 
