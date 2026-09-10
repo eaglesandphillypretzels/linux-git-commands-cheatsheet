@@ -16,5 +16,6 @@
 | `Command` | `Description` | `Command Example`|
 |-----------|---------------|------------------|
 | `git init` | Initialize new repository | `git init [name of repo]`|
+| `git commit` | Save changes as commits | `git commit -m [message]` |
 
 
