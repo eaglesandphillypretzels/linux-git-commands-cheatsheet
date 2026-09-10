@@ -11,5 +11,6 @@
 | `more` | View contents within directory | `more sharks` |
 | `mkdir` | Make a new directory | mkdir sharks-rays |
 | `pwd` | Print working/current directory | `pwd` |                         
+| `mv` | Move file to a created directory | `mv stingray shark-rays` |
 
 
