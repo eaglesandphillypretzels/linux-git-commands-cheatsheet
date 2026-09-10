@@ -21,4 +21,4 @@
 | `git log` | Show the commit history for the currently active branch | `git log` |
 | `git clone` | Clone an existing repository | `git clone [url] - Clone a repository from an existing URL` |
 | `git add [file]` | Add a file as it looks now to your next commit (stage) | `git add readme.md` |
-
+| `git merge` | Merge a specific branch's history into the current one | `git merge feature/branch` |
