@@ -13,5 +13,6 @@
 | `pwd` | Print working/current directory | `pwd` |                         
 | `mv` | Move file to a created directory | `mv stingray shark-rays` |
 | `cd` | Change directory | `cd rays` |
+| `cd .. ` | Change to above directory | `cd ..` |
 
 
