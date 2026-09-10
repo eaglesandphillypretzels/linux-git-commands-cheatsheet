@@ -14,5 +14,7 @@
 | `mv` | Move file to a created directory | `mv stingray shark-rays` |
 | `cd` | Change directory | `cd rays` |
 | `cd .. ` | Change to above directory | `cd ..` |
+|`root /` | Root to establish pathnames across directory | `mv shark-rays/rays/devil-ray` |
+
 
 
