@@ -8,4 +8,6 @@
 | `Command` | `Description` | `Command Example`|
 |-----------|---------------|------------------|
 | `ls` | List all directory contents |`ls -l` |
+| `more` | View contents within directory | `more sharks` |
+
 
